@@ -9,7 +9,7 @@ Run the following command -<br> <i>python logisticRegressionMain.py 'spam traini
 
 ## Output
 ### Naive Bayes
-Accuracy without removing stopwords=94.56%
+Accuracy without removing stopwords=94.56% <br>
 Accuracy after removing stopwords=93.93%
 
 ### Logistic Regression
